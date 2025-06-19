@@ -1,0 +1,109 @@
+C.1
+C.2
+C.3
+C.4
+C.5
+C.5
+NPWP
+NITKU
+Nama Wajib Pajak
+Tanggal
+Nama Penandatangan
+Pernyataan Wajib Pajak
+:
+:
+:
+929333330303000 / 0929333330303000
+0929333330303000000000
+JAYA RAYA
+:
+:
+dd
+mm yyyy
+:
+HARTONO
+Dengan ini saya menyatakan bahwa bukti Pemotongan/Pemungutan Unifikasi telah saya isi dengan benar dan telah saya tandatangani secara
+elektronik
+Apabila terdapat kesalahan/pembatalan dalam pembuatan Bukti Pemotongan/Pemungutan Unifikasi yang menyebabkan kelebihan
+pemotongan/pemungutan PPh atau pembayaran, atas kelebihan tersebut akan diajukan:
+Pengembalian atas kelebihan pembayaran pajak yang tidak seharusnya terutang oleh Pemotong dan/atau Pemungut PPh
+Pemindahbukuan oleh Pemotong dan/atau Pemungut PPh
+5H5PMA55
+P
+Sesuai dengan ketentuan yang berlaku di, Direktorat Jenderal pajak mengatur bahwa Bukti Pemotongan/Pemungutan PPh Unifikasi ini
+dinyatakan sah dan tidak diperlukan tanda tangan basah pada Bukti Pemotongan ini.
+9001
+V
+08
+a r e a s t a p l e s
+KEMENTERIAN KEUANGAN RI
+DIREKTORAT JENDERAL PAJAK
+BUKTI PEMOTONGAN/PEMUNGUTAN
+PPh PASAL 4 AYAT (2), PASAL 15, PASAL 22, DAN PASAL 23
+FORMULIR BPBS
+H.1
+NOMOR :
+H.2
+X
+Pembetulan Ke- 0
+H.3 Pembatalan
+H.4
+PPh Final
+H.5
+X
+PPh Tidak Final
+A. IDENTITAS WAJIB PAJAK YANG DIPOTONG/DIPUNGUT
+B. PAJAK PENGHASILAN YANG DIPOTONG/DIPUNGUT
+Masa Pajak
+(mm-yyyy)
+Kode Objek Pajak Dasar Pengenaan Pajak (Rp)
+Dikenakan Tarif Lebih
+Tinggi (Tidak
+memiliki NPWP)
+Tarif (%)
+PPh yang Dipotong/
+Dipungut/DTP (Rp)
+B.1 B.2
+B.3
+B.4 B.5 B.6
+8-2024
+24-104-24
+1.948.650,00
+2.00
+38.973,00
+Keterangan Kode Objek Pajak : Jasa Sehubungan Dengan Software Atau Hardware Atau Sistem Komputer, Termasuk Perawatan, Pemeliharaan
+B.7
+Dokumen Referensi : Nomor Dokumen
+Nama Dokumen
+Tanggal
+dd mm yyyy
+B.8
+Dokumen Referensi untuk Faktur Pajak, apabila ada :
+Nomor Faktur Pajak :
+B.9
+PPh dibebankan berdasarkan Surat Keterangan Bebas (SKB).
+Tanggal
+dd mm yyyy
+Nomor :
+Tanggal dd
+mm yyyy
+B.10
+PPh yang ditanggung oleh Pemerintah (DTP) berdasarkan :
+B.11 PPh dalam hal transaksi menggunakan Surat Keterangan berdasarkan PP Nomor 23 Tahun 2018 dengan Nomor :
+B.12 PPh yang dipotong/dipungut yang diberikan fasilitas PPh berdasarkan:
+C. IDENTITAS PEMOTONG/PEMUNGUT
+2024
+A.1NPWP
+A.2NIK
+:
+:
+:
+704511111011000 / 0704511111011000
+A.3 NITKU
+A.4 Nama
+:
+0704511111011000000000
+SINERGI INFORMATIKA SEMEN INDONESIA
+010.006-24.22222222 2 4
+3000000010
+2024
