@@ -17,6 +17,6 @@ This Node.js script parses a structured Indonesian tax document (Bupot PDF) and 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/pdf-bupot-parser.git
-cd pdf-bupot-parser
+git clone https://github.com/nafiulirsad/ptsisi-bupot-reader.git
+cd ptsisi-bupot-reader
 npm install
